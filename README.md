@@ -7,6 +7,7 @@ This project analyzes customer churn to help businesses understand why customers
 Customer churn analysis is crucial for businesses aiming to retain their customer base. This project identifies key patterns that lead to churn and builds predictive models that help in forecasting customer behavior.
 
 📊 Key Features
+
 Data Preprocessing
 
 Cleaned and transformed raw data, handling missing values and outliers.
@@ -30,14 +31,6 @@ Business Analysis
 Analyzed churn insights to provide actionable business recommendations.
 Identified high-risk customer segments.
 Suggested strategies to improve customer retention based on analysis results.
-🛠️ Installation
-To run the Customer Churn Analysis project locally:
-
-Clone the repository:
-
-git clone https://github.com/midhun24122002/Churnanalysis.git
-cd Churnanalysis
-Download the dataset and place it in the project directory.
 
 🚀 Usage
 Open the Jupyter Notebook:
@@ -58,8 +51,7 @@ Based on the analysis, here are a few strategies for improving customer retentio
 Focus on customer segments with high churn probability.
 Address specific pain points identified through data insights.
 Improve customer engagement efforts in specific areas to reduce churn.
-📄 License
-This project is licensed under the MIT License.
+
 
 🙏 Acknowledgments
 Special thanks to Saiket Systems for the data and to the community for providing invaluable resources for data science and machine learning.
